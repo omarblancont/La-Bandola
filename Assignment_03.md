@@ -30,5 +30,10 @@ Poseo buena resolución de problemas, creo estrategias de planeación con rapide
 
 Debo mejorar mi conocimiento en lenguajes como C++ y Rust y la implementación de conceptos como estructuras de datos y el uso de algoritmos en los programas que diseño.
 
+## DANIEL FELIPE OREJUELA GUZMAN
 
+Dentro de un equipo de desarrollo de software me gustaría desempeñar un rol enfocado en el desarrollo fullstack, trabajando tanto en el backend como en el frontend. Me interesa crear la lógica del servidor, gestionar bases de datos y servidores, así como desarrollar interfaces visuales funcionales y corregir errores del sistema.
 
+Considero que puedo aportar al equipo con mis habilidades en programación, diseño de interfaces y manejo de bases de datos. Además, tengo buen trabajo en equipo, buena comunicación, disposición para colaborar y adaptarme a diferentes tareas según las necesidades del proyecto.
+
+En cuanto a los aspectos por mejorar, debo fortalecer el manejo del tiempo y profundizar en conocimientos de seguridad del software para garantizar aplicaciones más seguras y confiables.
